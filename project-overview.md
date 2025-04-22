@@ -7,7 +7,7 @@ At its core, TechniDox offers a modern framework and toolkit tailored for docume
 With a strong emphasis on readability, accessibility, and consistency, the platform supports internal and external publishing, collaborative editing, and version-controlled contributions — making it ideal for both individual contributors and enterprise teams.
 
 What Sets TechniDox Apart:
-	•	AI-Powered Grammar & Style Review: Built-in AI tools scan documents for grammar, tone, clarity, and style, streamlining review cycles and reducing editorial overhead.
+	•	AI-Powered Grammar & Style Review: Built-in A I tools scan documents for grammar, tone, clarity, and style, streamlining review cycles and reducing editorial overhead.
 	•	Live Collaboration & Contribution: Enables real-time collaboration and community contributions to foster open-source engagement and transparent knowledge sharing.
 	•	Metric Tracker & Page Health Scoring: Users can track how their documentation is performing using engagement metrics, quality scores, and user feedback — helping teams identify what works and what needs improvement.
 	•	Internal or External Publishing: Whether you’re maintaining internal engineering wikis or public developer docs, TechniDox adapts to fit both secure enterprise environments and open-source communities.
