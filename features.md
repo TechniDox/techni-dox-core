@@ -1,4 +1,4 @@
-#Phase One (MVP) Features – TechniDox
+Phase One (MVP) Features – TechniDox
 
 TechniDox Phase I (MVP) focuses on delivering core functionality that empowers technical writers and teams to host, publish, collaborate on, and measure the quality of their documentation. This first release is intentionally focused on the foundational features that differentiate TechniDox as a data-driven, AI-powered documentation platform.
 
